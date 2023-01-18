@@ -54,7 +54,6 @@ button {
 #container {
     width: 50%;
     height: 714px;
-    margin-top: 306px;
     margin-bottom: auto;
     margin-left: 3%;
     margin-right: auto;
@@ -85,7 +84,6 @@ ul {
     background-color: #f4fafffa;
     width: 35%; 
     height: 714px;
-    margin-top: 306px;
     border-radius: 12px;
     padding: 4px 40px 40px 33px;
     margin-left: 5%;
@@ -94,9 +92,45 @@ ul {
 }
 .flexcontainer {
     display: flex;
+    margin-top: 50px;
 }
 
 /* button animation*/
 .button:hover {
     background-color: rgb(220, 220, 220);
+}
+.header{
+    background-color: #1F1D27;
+    border-bottom: #ff2a50 4px solid;
+    margin: 0px;
+}
+
+#logoHeader{
+    margin: 0px;
+    margin-left: 45px;
+    width: 200px;
+}
+
+.headerLinks{
+    text-align: right;
+    margin-right: 50px;
+    float: right;
+    padding-top: 80px;
+    font-size: x-large;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+a{
+    color: white;
 }
