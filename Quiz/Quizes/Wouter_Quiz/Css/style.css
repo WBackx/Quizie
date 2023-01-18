@@ -7,6 +7,7 @@
 body {
     font-family: Open Sans;
     background-color: #1f1d27;
+    margin: 0px;
 }
 
 h1 {
@@ -54,15 +55,16 @@ button {
 #container {
     width: 50%;
     height: 714px;
-    margin-top: 306px;
+    margin-top: 30px;
     margin-bottom: auto;
     margin-left: 0px;
     margin-right: auto;
     padding: 4px 40px 40px 33px;
-    background-color: rgb(30, 144, 255);
+    background-color: #f4fafffa;
     border-radius: 12px;
-    color: rgb(255, 255, 255);
+    color: black;
     font-weight: bold;
+    border: #ff2a50 solid 5px
 }
 
 ul {
@@ -79,6 +81,7 @@ ul {
     display:none;
     width: 90px;
 }
+
 .header{
     background-color: #1F1D27;
     border-bottom: #ff2a50 4px solid;
@@ -130,3 +133,5 @@ a{
 .flexcontainer {
     display: flex;
 }
+
+
