@@ -63,6 +63,7 @@ button {
     border: #ff2a50 solid 5px;    
     font-weight: bold;
     border-radius: 12px;
+    transition: 0.5s;
 }
 
 ul {
@@ -90,6 +91,7 @@ ul {
     margin-left: 5%;
     margin-right: 3%;
     border: #ff2a50 solid 5px;
+    transition: 0.5s;
 }
 .flexcontainer {
     display: flex;
@@ -134,4 +136,10 @@ a:active { text-decoration: none; }
 
 a{
     color: white;
+}
+.textdiv:hover {
+    border: #ffaebb solid 5px;
+}
+#container:hover {
+    border: #ffaebb solid 5px;
 }

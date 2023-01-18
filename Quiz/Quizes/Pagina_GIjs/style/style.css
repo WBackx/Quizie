@@ -64,6 +64,7 @@ button {
     border: #ff2a50 solid 5px;    
     font-weight: bold;
     border-radius: 12px;
+    transition: 0.5s;
 }
 
 
@@ -127,6 +128,7 @@ a{
     margin-left: 5%;
     margin-right: 3%;
     border: #ff2a50 solid 5px;
+    transition: 0.5s;
 }
 
 .flexcontainer {
@@ -136,4 +138,10 @@ a{
 /* button animation*/
 .button:hover {
     background-color: rgb(220, 220, 220);
+}
+.textdiv:hover {
+    border: #ffaebb solid 5px;
+}
+#container:hover {
+    border: #ffaebb solid 5px;
 }
