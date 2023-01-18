@@ -79,24 +79,23 @@ ul {
     display:none;
     width: 90px;
 }
-
 .header{
-    background-color: #F8F8FF;
-    border-bottom: red 4px;
+    background-color: #1F1D27;
+    border-bottom: #ff2a50 4px solid;
     margin: 0px;
 }
 
 #logoHeader{
-    margin: 10px;
+    margin: 0px;
     margin-left: 45px;
-    width: 150px;
+    width: 200px;
 }
 
 .headerLinks{
     text-align: right;
     margin-right: 50px;
     float: right;
-    padding-top: 40px;
+    padding-top: 80px;
     font-size: x-large;
 }
 
@@ -111,3 +110,23 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+a{
+    color: white;
+}
+
+.textdiv {
+    background-color: #f4fafffa;
+    width: 35%; 
+    height: 706px;
+    margin-top: 30px;
+    border-radius: 12px;
+    padding: 4px 40px 40px 33px;
+    margin-left: 5%;
+    margin-right: 3%;
+    border: #ff2a50 solid 5px;
+}
+
+.flexcontainer {
+    display: flex;
+}
