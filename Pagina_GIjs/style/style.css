@@ -79,3 +79,35 @@ ul {
     display:none;
     width: 90px;
 }
+
+.header{
+    background-color: #F8F8FF;
+    border-bottom: red 4px;
+    margin: 0px;
+}
+
+#logoHeader{
+    margin: 10px;
+    margin-left: 45px;
+    width: 150px;
+}
+
+.headerLinks{
+    text-align: right;
+    margin-right: 50px;
+    float: right;
+    padding-top: 40px;
+    font-size: x-large;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
