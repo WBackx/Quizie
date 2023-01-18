@@ -55,15 +55,16 @@ button {
 #container {
     width: 50%;
     height: 714px;
-    margin-top: 306px;
+    margin-top: 30px;
     margin-bottom: auto;
     margin-left: 0px;
     margin-right: auto;
     padding: 4px 40px 40px 33px;
-    background-color: rgb(30, 144, 255);
+    background-color: #f4fafffa;
     border-radius: 12px;
-    color: rgb(255, 255, 255);
+    color: black;
     font-weight: bold;
+    border: #ff2a50 solid 5px
 }
 
 ul {
@@ -117,14 +118,20 @@ a{
     color: white;
 }
 
-h3{
-    color: white;
+.textdiv {
+    background-color: #f4fafffa;
+    width: 35%; 
+    height: 706px;
+    margin-top: 30px;
+    border-radius: 12px;
+    padding: 4px 40px 40px 33px;
+    margin-left: 5%;
+    margin-right: 3%;
+    border: #ff2a50 solid 5px;
 }
 
-h2{
-    color: white;
+.flexcontainer {
+    display: flex;
 }
 
-h1{
-    color: white;
-}
+
