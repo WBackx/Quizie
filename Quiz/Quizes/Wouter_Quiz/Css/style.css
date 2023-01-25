@@ -136,7 +136,7 @@ a{
     display: flex;
     margin-top: 50px;
 }
-/* button animation*/
+
 .button:hover {
     background-color: rgb(220, 220, 220);
 }
