@@ -144,3 +144,33 @@ a{
 #container:hover {
     border: #ffaebb solid 5px;
 }
+
+
+
+@media (max-width:1040px) {
+    .headerLinks {
+        font-size: medium;
+    }
+}
+@media (max-width:800px) {
+    .headerLinks {
+        font-size: small;
+    }
+   .header {
+    height: 200px;
+   }
+   .flexcontainer {
+    margin-top: 100px;
+   }
+}
+@media (max-width:550px) {
+    .headerLinks {
+        font-size: x-small;
+    }
+   .header {
+    height: 200px;
+   }
+   .flexcontainer {
+    margin-top: 100px;
+   }
+}
