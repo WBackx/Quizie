@@ -32,8 +32,8 @@
         choices: ['TRYM ', 'VCL', 'Vladimir Dubyshkin'],
         correctAnswer: 2
     },{
-        question: "Is dit techno?",
-        choices: ['ja, dit is techno', 'Nee, dit is early hardcore', 'Nee, dit is hard house'],
+        question: "Wat is GEEN techno label?",
+        choices: ['Trip records', 'Ruffneck Records', 'Tresor Berlin'],
         correctAnswer: 1
     },{
         question: "Wat zorgde er voor dat techno een comeback maakte in 2022? ",
