@@ -24,16 +24,16 @@
         choices: ['Roland TR909', 'Roland TB303', 'Roland TR808'],
         correctAnswer: 0
     },  {
-        question: "Van welke moderne techno artiest komt dit nummer?",
-        choices: ['FJAAK ', 'Charlie Sparks', '9X9'],
+        question: "Wat is Acid?",
+        choices: ['Bass Drum ', 'Sub bass', 'Bass line'],
         correctAnswer: 2
     },{
-        question: "Van welke techno artiest zijn deze EP covers?",
+        question: "wie van deze artiesten maakt GEEN hard techno?",
         choices: ['TRYM ', 'VCL', 'Vladimir Dubyshkin'],
         correctAnswer: 2
     },{
-        question: "Is dit techno?",
-        choices: ['ja, dit is techno', 'Nee, dit is early hardcore', 'Nee, dit is hard house'],
+        question: "Wat is GEEN techno label?",
+        choices: ['Trip records', 'Ruffneck Records', 'Tresor Berlin'],
         correctAnswer: 1
     },{
         question: "Wat zorgde er voor dat techno een comeback maakte in 2022? ",
