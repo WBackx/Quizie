@@ -20,8 +20,8 @@
       choices: ['90-120', '120-165', '170-220'],
       correctAnswer: 1
     },  {
-        question: "Van welk festival komt dit nummer?",
-        choices: ['Love Parade Berlijn', 'Rotterdam Rave', 'Tomorrowland Belgie'],
+        question: "Welke drum mashine werd vroeger het meest voor techno gebruikt?",
+        choices: ['Roland TR909', 'Roland TB303', 'Roland TR808'],
         correctAnswer: 0
     },  {
         question: "Van welke moderne techno artiest komt dit nummer?",
