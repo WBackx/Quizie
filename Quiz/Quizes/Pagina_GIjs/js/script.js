@@ -25,10 +25,10 @@
         correctAnswer: 0
     },  {
         question: "Wat is Acid?",
-        choices: ['Bass Drum ', 'Synth', 'Bass'],
+        choices: ['Bass Drum ', 'Sub bass', 'Bass line'],
         correctAnswer: 2
     },{
-        question: "Van welke techno artiest zijn deze EP covers?",
+        question: "wie van deze artiesten maakt GEEN hard techno?",
         choices: ['TRYM ', 'VCL', 'Vladimir Dubyshkin'],
         correctAnswer: 2
     },{
