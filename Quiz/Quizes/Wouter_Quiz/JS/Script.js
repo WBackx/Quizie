@@ -180,7 +180,7 @@
         }
       }
       
-      score.append('je hebt ' + numCorrect + ' Vragen van de  ' +questions.length + ' Goed!!!');
+      score.append('Je hebt de quiz Afgerond! | je hebt ' + numCorrect + ' Vragen van de  ' +questions.length + ' Goed!!!');
       return score;
     }
   })();
