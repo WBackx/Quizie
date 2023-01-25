@@ -24,8 +24,8 @@
         choices: ['Roland TR909', 'Roland TB303', 'Roland TR808'],
         correctAnswer: 0
     },  {
-        question: "Van welke moderne techno artiest komt dit nummer?",
-        choices: ['FJAAK ', 'Charlie Sparks', '9X9'],
+        question: "Wat is Acid?",
+        choices: ['Bass Drum ', 'Synth', 'Bass'],
         correctAnswer: 2
     },{
         question: "Van welke techno artiest zijn deze EP covers?",
